@@ -104,6 +104,7 @@ int main(int argc, TCHAR* argv[])
 		}
 		CloseHandle(hProcess);
 	}
+	system("pause");
 	return 0;
 }
 
